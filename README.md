@@ -14,7 +14,4 @@ The program has three main functions:
 
 In the `main` function, we set `numberOfFlips` to 1,000,000 and `consecutiveFlipsToFind` to 5, then call `calculateProbability()` and `countConsecutiveFlips()`, and print out the results.
 
-## Usage
-
-To run the program, you need a Java compiler. If you have one installed, you can compile the program using the following command:
 
